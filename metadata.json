@@ -1,0 +1,6 @@
+{
+  "name": "Live TV",
+  "description": "App for streaming tv channels organized by genre, featuring a search bar and favorites functionality. Offline playback support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
